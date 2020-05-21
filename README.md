@@ -2,6 +2,5 @@
 presence detector project 
 level: Easy
 ## COMPONENTS AND SUPPLIES
-- Arduino UNO & Genuino UNO
-![Arduino UNO & Genuino UNO](link-to-image)
+- ![Arduino UNO & Genuino UNO](arduino-uno.jpg)
 - Ultrasonic Sensor - HC-SR04 (Generic)
