@@ -1,8 +1,14 @@
 # Arduino pour les nulles
+Mon 1er jour vec Arduino
 Détecteur de présence
+Utilisation du composant ultrason
+Niveau de difficulté : débutant
 
 ## COMPONENTS AND SUPPLIES
 - Arduino UNO
-![Arduino UNO](arduino-uno.jpg)
 - Ultrasonic Sensor - HC-SR04 (Generic)
-![Ultrasonic Sensor - HC-SR04](ultrasonic-sensor-hc-sr04.jpg)
+- 3 Leds (1verte, 1 orange, 1 rouge)
+- 3 résistances pour protéger les Leds.
+
+![Arduino UNO](components.jpg)
+
