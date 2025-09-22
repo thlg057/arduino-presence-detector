@@ -22,7 +22,7 @@ The idea is to learn together, in a fun way, while discovering electronics and p
 - Appropriate resistors  
 - Breadboard and connection wires
 
-![Arduino UNO](components.jpg)
+![Arduino UNO](docs/components.jpg)
 
 ---
 
@@ -44,11 +44,11 @@ To implement it, I coupled it with LEDs:
 The **HC-SR04** sensor wiring is quite simple.  
 My kit came with `.h` and `.cpp` files to retrieve sensor values.
 
-![Arduino UNO](ultrasonic-sensor-hc-sr04.jpg)
+![Arduino UNO](docs/ultrasonic-sensor-hc-sr04.jpg)
 
 ### Sensor Mapping
 
-![Arduino UNO](ultrasonic-mapping.jpg)
+![Arduino UNO](docs/ultrasonic-mapping.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ I used the following Arduino pins:
 
 To draw the assembly plan, I used **Fritzing** software.  
 It's free software that allows you to easily represent breadboard assemblies.
-![Arduino UNO](detecteurpresence.png)
+![Arduino UNO](docs/detecteurpresence.png)
 
 ---
 

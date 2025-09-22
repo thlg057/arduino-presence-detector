@@ -22,7 +22,7 @@ L’idée est d’apprendre ensemble, de manière ludique, tout en découvrant l
 - Résistances adaptées  
 - Plaquette d’essai et câbles de connexion
 
-![Arduino UNO](components.jpg)
+![Arduino UNO](docs/components.jpg)
 
 ---
 
@@ -44,11 +44,11 @@ Pour le mettre en œuvre, je l’ai couplé avec des LEDs :
 Le branchement du capteur **HC-SR04** est assez simple.  
 Mon kit était fourni avec des fichiers `.h` et `.cpp` pour récupérer les valeurs du capteur.
 
-![Arduino UNO](ultrasonic-sensor-hc-sr04.jpg)
+![Arduino UNO](docs/ultrasonic-sensor-hc-sr04.jpg)
 
 ### Mapping du capteur
 
-![Arduino UNO](ultrasonic-mapping.jpg)
+![Arduino UNO](docs/ultrasonic-mapping.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ J’ai utilisé les pins suivants de l’Arduino :
 
 Pour dessiner le plan de montage, j’ai utilisé le logiciel **Fritzing**.  
 C’est un logiciel gratuit qui permet de représenter facilement les montages sur plaquettes d’essai.
-![Arduino UNO](detecteurpresence.png)
+![Arduino UNO](docs/detecteurpresence.png)
 
 ---
 
