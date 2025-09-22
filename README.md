@@ -46,6 +46,10 @@ Mon kit était fourni avec des fichiers `.h` et `.cpp` pour récupérer les vale
 
 ![Arduino UNO](ultrasonic-sensor-hc-sr04.jpg)
 
+### Mapping du capteur
+
+![Arduino UNO](ultrasonic-mapping.jpg)
+
 ---
 
 ## Arduino : C ou C++ ?
@@ -77,10 +81,6 @@ J’ai utilisé les pins suivants de l’Arduino :
 Pour dessiner le plan de montage, j’ai utilisé le logiciel **Fritzing**.  
 C’est un logiciel gratuit qui permet de représenter facilement les montages sur plaquettes d’essai.
 ![Arduino UNO](detecteurpresence.png)
-
-###Mapping du capteur
-
-![Arduino UNO](ultrasonic-mapping.jpg)
 
 ---
 
